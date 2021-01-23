@@ -1,0 +1,14 @@
+.venv
+temp_*
+*.txt
+!requirements.txt
+*.DS_Store
+.vscode/
+.venv
+develop-eggs/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+dist/
+build/
